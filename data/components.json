@@ -1,0 +1,14 @@
+{
+  "components": [
+    {"component": "gateway", "tier": "Tier0", "owner": "platform"},
+    {"component": "z-auth", "tier": "Tier0", "owner": "security"},
+    {"component": "fraud-engine", "tier": "Tier0", "owner": "risk"},
+    {"component": "a-billing", "tier": "Tier1", "owner": "finance"},
+    {"component": "checkout", "tier": "Tier1", "owner": "commerce"},
+    {"component": "inventory", "tier": "Tier1", "owner": "supply"},
+    {"component": "search-api", "tier": "Tier1", "owner": "commerce"},
+    {"component": "catalog", "tier": "Tier1", "owner": "commerce"},
+    {"component": "notifier", "tier": "Tier2", "owner": "platform"},
+    {"component": "metrics", "tier": "Tier2", "owner": "data"}
+  ]
+}
