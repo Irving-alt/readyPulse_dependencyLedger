@@ -1,0 +1,16 @@
+{
+  "release": "RP-2026.05",
+  "patches": [
+    {"id": "RP-01", "component": "gateway", "kind": "feature", "risk": "medium"},
+    {"id": "RP-02", "component": "gateway", "kind": "fix", "risk": "low"},
+    {"id": "RP-03", "component": "a-billing", "kind": "breaking", "risk": "low"},
+    {"id": "RP-04", "component": "z-auth", "kind": "fix", "risk": "high"},
+    {"id": "RP-05", "component": "search-api", "kind": "feature", "risk": ""},
+    {"id": "RP-06", "component": "inventory", "kind": "feature", "risk": "medium"},
+    {"id": "RP-07", "component": "fraud-engine", "kind": "feature", "risk": "high"},
+    {"id": "RP-08", "component": "notifier", "kind": "feature", "risk": "medium"},
+    {"id": "RP-09", "component": "notifier", "kind": "feature", "risk": "medium"},
+    {"id": "RP-10", "component": "notifier", "kind": "fix", "risk": "low"},
+    {"id": "RP-11", "component": "metrics", "kind": "fix", "risk": "medium"}
+  ]
+}
