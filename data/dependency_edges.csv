@@ -1,0 +1,14 @@
+Dependent,Dependency,CriticalityWeight
+gateway,z-auth,4
+gateway,a-billing,4
+gateway,search-api,2
+checkout,a-billing,3
+checkout,inventory,2
+a-billing,z-auth,2
+a-billing,metrics,1
+search-api,catalog,2
+catalog,metrics,1
+inventory,metrics,1
+notifier,metrics,1
+fraud-engine,metrics,2
+z-auth,metrics,1
