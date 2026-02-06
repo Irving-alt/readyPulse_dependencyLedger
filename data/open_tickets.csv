@@ -1,0 +1,16 @@
+TicketID,Component,Severity,Status,CreatedAt,Title
+TCK-001,gateway,P2,Open,2026-01-22,UI polish
+TCK-002,gateway,P1,In Progress,2026-01-18,Gateway latency
+TCK-003,z-auth,P0,Open,2026-01-10,Auth bypass
+TCK-004,z-auth,P2,Done,2026-01-05,Docs cleanup
+TCK-005,a-billing,P1,Open,2026-01-15,Billing retry
+TCK-006,a-billing,P2,In Progress,2026-01-20,Invoice metrics
+TCK-007,checkout,P2,Open,2026-01-02,Cart issue
+TCK-008,checkout,P2,Done,2026-01-03,Test fix
+TCK-009,inventory,P2,Open,2026-01-08,Stock count
+TCK-010,search-api,P1,In Progress,2026-01-12,Ranking regression
+TCK-011,catalog,P2,Open,2026-01-01,Field validation
+TCK-012,notifier,P2,Open,2026-01-25,Template update
+TCK-013,metrics,P1,Open,2026-01-04,Aggregation drift
+TCK-014,fraud-engine,P0,In Progress,2026-01-14,Fraud scoring issue
+TCK-015,fraud-engine,P2,Done,2026-01-06,cleanup
